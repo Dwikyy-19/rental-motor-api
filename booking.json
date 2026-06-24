@@ -1,0 +1,20 @@
+[
+  {
+    "idMotor": "m001",
+    "namaMotor": "Beat CBS",
+    "namaPemesan": "Budi Santoso",
+    "email": "budi@gmail.com",
+    "tanggalMulai": "01/07/2025",
+    "tanggalSelesai": "03/07/2025",
+    "totalHarga": 225000
+  },
+  {
+    "idMotor": "m002",
+    "namaMotor": "Vario 125",
+    "namaPemesan": "Siti Rahma",
+    "email": "siti@gmail.com",
+    "tanggalMulai": "05/07/2025",
+    "tanggalSelesai": "07/07/2025",
+    "totalHarga": 255000
+  }
+]
