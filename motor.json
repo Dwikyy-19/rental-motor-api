@@ -1,0 +1,50 @@
+[
+  {
+    "id": "m001",
+    "nama": "Beat CBS",
+    "merek": "Honda",
+    "hargaPerHari": 75000,
+    "imageId": "beat",
+    "tersedia": true
+  },
+  {
+    "id": "m002",
+    "nama": "Vario 125",
+    "merek": "Honda",
+    "hargaPerHari": 85000,
+    "imageId": "vario",
+    "tersedia": true
+  },
+  {
+    "id": "m003",
+    "nama": "NMAX",
+    "merek": "Yamaha",
+    "hargaPerHari": 110000,
+    "imageId": "nmax",
+    "tersedia": false
+  },
+  {
+    "id": "m004",
+    "nama": "Aerox 155",
+    "merek": "Yamaha",
+    "hargaPerHari": 120000,
+    "imageId": "aerox",
+    "tersedia": true
+  },
+  {
+    "id": "m005",
+    "nama": "PCX 160",
+    "merek": "Honda",
+    "hargaPerHari": 130000,
+    "imageId": "pcx",
+    "tersedia": true
+  },
+  {
+    "id": "m006",
+    "nama": "Scoopy",
+    "merek": "Honda",
+    "hargaPerHari": 70000,
+    "imageId": "scoopy",
+    "tersedia": false
+  }
+]
